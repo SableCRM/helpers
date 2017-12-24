@@ -1,4 +1,5 @@
 {
+  "name": "helpers/helpers",
   "autoload": {
     "psr-4": {
       "Helpers\\": "."
