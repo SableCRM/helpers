@@ -1,4 +1,5 @@
 {
+  "minimum-stability": "stable",
   "name": "helpers/helpers",
   "autoload": {
     "psr-4": {
